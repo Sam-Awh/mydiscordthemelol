@@ -1,15 +1,8 @@
 /**
- * @name Fluent Discord
- * @author TakosThings
- * @version 1.7.3
- * @description Fluent theme for Discord (🔄 Auto-updating)
- * @invite ZYrCacRuez
- * @source https://github.com/TakosThings/Fluent-Discord
+ * Import theme.
 */
 @import url(https://takosthings.github.io/Fluent-Discord/Fluent-Discord.css); /**
  * Start user options
- * Visit the wiki for information on this section
- * https://github.com/TakosThings/Fluent-Discord/wiki
 */
 /**
  * Note on chat font size
@@ -17,8 +10,7 @@
  * This option is found in User settings > Appearance.
 */
 /**
-  * Visit the wiki for in-depth help on changing the below variables: https://github.com/TakosThings/Fluent-Discord/wiki/Options
-  * You can change the accent colour by using the Colour Selector tool: https://takosthings.github.io/Fluent-Discord/color.html
+  * Colour Selector tool: https://takosthings.github.io/Fluent-Discord/color.html
 **/
 :root {
   /* DefaultBlue */
