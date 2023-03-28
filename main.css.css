@@ -18,11 +18,11 @@
 */
 @font-face {
   font-family: "Segoe UI";
-  src: local("Segoe UI") format("truetype"), url("https://takosthings.github.io/Fluent-Discord-Fonts/segoeui.ttf") format("truetype");
-}
+  src: local("Segoe UI") format("truetype"), url("https://github.com/Sam-Awh/mydiscordthemelol/blob/main/font/segoeui.ttf") format("truetype");
+} 
 @font-face {
   font-family: "Segoe Fluent Icons";
-  src: local("Segoe Fluent Icons"), url("https://takosthings.github.io/Fluent-Discord-Fonts/Segoe-Fluent-Icons.ttf") format("truetype");
+  src: local("Segoe Fluent Icons"), url("https://github.com/Sam-Awh/mydiscordthemelol/blob/main/font/Segoe-Fluent-Icons.ttf") format("truetype");
 }
 :root {
   --font-primary: "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Helvetica, Verdana, Tahoma, Geneva, Arial, sans-serif;
